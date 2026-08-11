@@ -1,7 +1,8 @@
 <p align="center">
-  <img src="Library management System.png"
+  <img src="library-management-system-banner.png"
        alt="Library Management System"
-       width="900">
+       width="650"
+       height="366">
 </p>
 
 <h1 align="center">Library Management System</h1>
@@ -9,6 +10,8 @@
 <p align="center">
   A clean Windows desktop Library Management System built with C# and Windows Forms.
 </p>
+
+## Main Features
 
 ## Main Features
 
