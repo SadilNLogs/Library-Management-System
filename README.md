@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="library-management-system-banner.png"
+  <img src="Library management System.png"
        alt="Library Management System"
        width="650"
        height="366">
