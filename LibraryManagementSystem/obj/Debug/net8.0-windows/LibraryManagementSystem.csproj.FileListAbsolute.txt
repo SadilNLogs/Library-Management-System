@@ -1,0 +1,14 @@
+D:\C#\C# - Practical\Library-Management-System\Library-Management-System\LibraryManagementSystem\bin\Debug\net8.0-windows\LibraryManagementSystem.exe
+D:\C#\C# - Practical\Library-Management-System\Library-Management-System\LibraryManagementSystem\bin\Debug\net8.0-windows\LibraryManagementSystem.deps.json
+D:\C#\C# - Practical\Library-Management-System\Library-Management-System\LibraryManagementSystem\bin\Debug\net8.0-windows\LibraryManagementSystem.runtimeconfig.json
+D:\C#\C# - Practical\Library-Management-System\Library-Management-System\LibraryManagementSystem\bin\Debug\net8.0-windows\LibraryManagementSystem.dll
+D:\C#\C# - Practical\Library-Management-System\Library-Management-System\LibraryManagementSystem\bin\Debug\net8.0-windows\LibraryManagementSystem.pdb
+D:\C#\C# - Practical\Library-Management-System\Library-Management-System\LibraryManagementSystem\obj\Debug\net8.0-windows\LibraryManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C# - Practical\Library-Management-System\Library-Management-System\LibraryManagementSystem\obj\Debug\net8.0-windows\LibraryManagementSystem.AssemblyInfoInputs.cache
+D:\C#\C# - Practical\Library-Management-System\Library-Management-System\LibraryManagementSystem\obj\Debug\net8.0-windows\LibraryManagementSystem.AssemblyInfo.cs
+D:\C#\C# - Practical\Library-Management-System\Library-Management-System\LibraryManagementSystem\obj\Debug\net8.0-windows\LibraryManagementSystem.csproj.CoreCompileInputs.cache
+D:\C#\C# - Practical\Library-Management-System\Library-Management-System\LibraryManagementSystem\obj\Debug\net8.0-windows\LibraryManagementSystem.dll
+D:\C#\C# - Practical\Library-Management-System\Library-Management-System\LibraryManagementSystem\obj\Debug\net8.0-windows\refint\LibraryManagementSystem.dll
+D:\C#\C# - Practical\Library-Management-System\Library-Management-System\LibraryManagementSystem\obj\Debug\net8.0-windows\LibraryManagementSystem.pdb
+D:\C#\C# - Practical\Library-Management-System\Library-Management-System\LibraryManagementSystem\obj\Debug\net8.0-windows\LibraryManagementSystem.genruntimeconfig.cache
+D:\C#\C# - Practical\Library-Management-System\Library-Management-System\LibraryManagementSystem\obj\Debug\net8.0-windows\ref\LibraryManagementSystem.dll
